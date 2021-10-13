@@ -3,7 +3,7 @@ package easyAlgo;
 import java.util.ArrayList;
 import java.util.List;
 
-public class LeftRotation {
+public class LeftRotationArray {
     public static List<Integer> rotLeft(int d, List<Integer> ar) {
         int[] a = new int[ar.size()];
         for (int i = 0; i < a.length; i++) {
