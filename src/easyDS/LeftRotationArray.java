@@ -1,4 +1,4 @@
-package easyAlgo;
+package easyDS;
 
 import java.util.ArrayList;
 import java.util.List;

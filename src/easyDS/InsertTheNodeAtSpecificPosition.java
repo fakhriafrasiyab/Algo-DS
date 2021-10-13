@@ -1,4 +1,4 @@
-package easyAlgo;
+package easyDS;
 
 public class InsertTheNodeAtSpecificPosition {
 
